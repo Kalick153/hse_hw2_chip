@@ -51,4 +51,5 @@ https://colab.research.google.com/drive/1v7x2aNi6g_YHLGWRol7LNDuuwlWXyuti?usp=sh
 Возможно, дело в том, что выравнивание было произведено только на одну хромосому.
 
 ## Бонус
+![result](https://user-images.githubusercontent.com/71277325/157750298-d3fad20a-fca8-4b1c-988d-2c07f56cb7dc.png)
 
