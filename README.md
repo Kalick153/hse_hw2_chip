@@ -46,6 +46,7 @@ https://colab.research.google.com/drive/1v7x2aNi6g_YHLGWRol7LNDuuwlWXyuti?usp=sh
 [Intervene_venn (1).pdf](https://github.com/Kalick153/hse_hw2_chip/files/8224148/Intervene_venn.1.pdf)
 
 [Intervene_venn (3).pdf](https://github.com/Kalick153/hse_hw2_chip/files/8224150/Intervene_venn.3.pdf)
+
 Как видим, перечесений  мало.
 Возможно, дело в том, что выравнивание было произведено только на одну хромосому.
 
